@@ -1,0 +1,117 @@
+.container{ 
+   line-height: 2;
+}
+.bg-contaii{
+  background: linear-gradient(to bottom, #A03C78,#ED8E7C,#CDF3A2,#93D9A3);  
+}
+
+.profile-img{
+   margin: 50px 0 0;
+}
+.profile-img-details{
+  border-radius: 10px;
+  border-width: 3px;
+  border-style: double double none none;
+}
+
+.welcome-txt{
+   margin: 50px 0 0;
+   font-weight: bold;   
+}
+
+.about-txt{
+
+   font-weight: bold;
+   margin: 50px 0 0; 
+  
+}
+#languages{
+   font-weight: bold;
+  
+}
+#sub-txt{
+      font-weight: bold;
+      text-align: center;
+      width: 350px;
+      color: #A03C78;
+      background-color: #050808;
+      margin-left:50px;
+      margin-top: 50px;
+   }
+
+.pink-box{
+   font-weight: bold;
+   text-align: center;
+   width: 350px;
+   background-color: #B775A3 ;
+   margin-left:50px;
+   margin-top: 50px;
+}
+.blue-box{
+
+   font-weight: bold;
+   text-align: center;
+   width: 350px;
+   background-color: #18B0D2;
+   margin-left:50px;
+}
+.lt-box{
+   font-weight: bold;
+   text-align: center;
+   width: 350px;
+   color: #A03C78;
+   background-color: #050808;
+   margin-left:50px;
+   margin-top: 50px;
+}
+
+.boxes{
+   margin: 50px;
+   font-weight: bold;
+}
+
+/* unidades box */
+.python-box{
+   text-align: center;
+   background-color: #18B0D2;
+   width:200px;
+}
+.c-box{
+   text-align: center;
+   width:200px;
+   background-color: #18B0D2;
+}
+.agt{
+   text-align: center;
+   width:200px;
+   background-color: #B775A3 ;
+}
+.css_{
+   background-color: #B775A3 ;
+   text-align: center;
+   width:200px;
+}
+.js_{
+   background-color: #B775A3 ;
+   text-align: center;
+   width:200px;
+}
+.boot_{
+   background-color: #B775A3 ;
+   text-align: center;
+   width:200px;
+}
+/* fim das box */
+
+.final_{
+   margin-top: 150px;
+   border-radius: 100px;
+   text-align: center;
+   background:black;
+   color: #B775A3;
+
+}
+.final_:hover{
+   color: blanchedalmond;
+}
+
