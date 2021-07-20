@@ -1,10 +1,6 @@
-.container{ 
-   line-height: 2;
+body{
+   background: linear-gradient(to bottom, #A03C78,#ED8E7C,#CDF3A2,#93D9A3);  
 }
-.bg-contaii{
-  background: linear-gradient(to bottom, #A03C78,#ED8E7C,#CDF3A2,#93D9A3);  
-}
-
 .profile-img{
    margin: 50px 0 0;
 }
@@ -26,8 +22,7 @@
   
 }
 #languages{
-   font-weight: bold;
-  
+   font-weight: bold; 
 }
 #sub-txt{
       font-weight: bold;
@@ -36,17 +31,15 @@
       color: #A03C78;
       background-color: #050808;
       margin-left:50px;
-      margin-top: 50px;
-   }
-
+      margin-top: 50px;}
 .pink-box{
    font-weight: bold;
    text-align: center;
    width: 350px;
    background-color: #B775A3 ;
    margin-left:50px;
-   margin-top: 50px;
-}
+   margin-top: 50px;}
+   
 .blue-box{
 
    font-weight: bold;
@@ -105,7 +98,6 @@
 
 .final_{
    margin-top: 150px;
-   border-radius: 100px;
    text-align: center;
    background:black;
    color: #B775A3;
