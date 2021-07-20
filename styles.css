@@ -1,5 +1,6 @@
 body{
    background: linear-gradient(to bottom, #A03C78,#ED8E7C,#CDF3A2,#93D9A3);  
+   padding-left: 30px;
 }
 .profile-img{
    margin: 50px 0 0;
@@ -39,7 +40,7 @@ body{
    background-color: #B775A3 ;
    margin-left:50px;
    margin-top: 50px;}
-   
+
 .blue-box{
 
    font-weight: bold;
