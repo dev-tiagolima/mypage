@@ -33,6 +33,15 @@ body{
       background-color: #050808;
       margin-left:50px;
       margin-top: 50px;}
+.green-box{
+   font-weight: bold;
+   text-align: center;
+   width: 350px;
+   background-color: #0eaf44 ;
+   margin-left:50px;
+   margin-top: 50px;
+
+}
 .pink-box{
    font-weight: bold;
    text-align: center;
@@ -73,27 +82,33 @@ body{
 .c-box{
    text-align: center;
    width:200px;
-   background-color: #18B0D2;
+   background-color: #B775A3;
 }
 .agt{
    text-align: center;
    width:200px;
-   background-color: #B775A3 ;
+   background-color: #0eaf44 ;
 }
 .css_{
-   background-color: #B775A3 ;
+   background-color: #0eaf44 ;
    text-align: center;
    width:200px;
 }
 .js_{
-   background-color: #B775A3 ;
+   background-color: #18B0D2;
    text-align: center;
    width:200px;
 }
 .boot_{
-   background-color: #B775A3 ;
+   background-color: #0eaf44 ;
    text-align: center;
    width:200px;
+}
+.java-box{
+   background-color: #B775A3;
+   text-align: center;
+   width:200px;
+
 }
 /* fim das box */
 
